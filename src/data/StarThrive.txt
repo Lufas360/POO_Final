@@ -1,0 +1,18 @@
+cafe/12/1/12/5/1200/390/10/40000/400/Cafe Centro/Coimbra
+frutaria/40/12/19/58/30/3000/2500/Fresh Fruit/Leiria
+fastfood/12/51/12/89/250/25/340/25/25/10/13000/300/KFC/Lisboa
+local/12/51/12/89/10/150/320/15/1120/6/70000/50/Calhabé do Marques/Coimbra
+pastelaria/12/15/12/5/1200/1390/6/65000/400/Bolos e Bolinhos/Coimbra
+mercado/12/51/12/21/1000/2/35000/3500/Continente/Faro
+cafe/12/1/12/5/1200/390/9/65000/400/Sports Café/Porto
+frutaria/40/12/19/55/33/3500/1500/Pomar da Serra/Évora
+fastfood/12/51/12/89/250/25/340/25/25/10/13000/300/McDonalds/Coimbra
+local/12/51/12/89/10/150/320/15/1120/6/70000/50/Churrascaria Infante/Coimbra
+pastelaria/12/15/12/5/1200/1390/6/65000/400/Afonso Pastelaria/Braga
+mercado/12/51/12/21/600/1/10000/3500/Intermarchet/Beja
+cafe/12/1/12/5/950/300/4/64000/400/Café da sogra/Santarem
+frutaria/40/12/19/55/33/3200/1100/Fruta Mole/Castelo Branco
+fastfood/12/51/12/89/150/25/344/15/25/10/13000/300/Pizza Hut/Guarda
+local/12/51/12/89/10/150/320/15/1120/6/70000/50/Italiano tuga/Viseu
+pastelaria/12/15/12/5/800/1390/3/65000/400/Pasteis de nata/Setubal
+mercado/12/51/12/21/300/0/1000/1500/Auchan/Aveiro
